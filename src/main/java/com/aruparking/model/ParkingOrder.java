@@ -7,7 +7,7 @@ import org.hibernate.annotations.UpdateTimestamp;
 
 import java.math.BigDecimal;
 import java.util.Date;
-//parking order
+//parking orde
 
 @Entity
 @Table(name = "PARKING_ORDER")
