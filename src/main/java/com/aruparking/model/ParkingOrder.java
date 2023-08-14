@@ -11,7 +11,7 @@ import java.util.Date;
 @Entity
 @Table(name = "PARKING_ORDER")
 public class ParkingOrder {
-
+//guh
 	@Id
 	@Column(name = "ID")
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
