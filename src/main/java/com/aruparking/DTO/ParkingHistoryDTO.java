@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 public class ParkingHistoryDTO {
-
+// dto class
 	private Long userId;
 	private Long slotId;
 	private Long zoneId;
